@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <em><small>Note: The papers shown in the screenshots above are for reference purposes only.</small></em>
+  <em><span style="font-size: x-small;">Note: The papers shown in the screenshots above are for reference purposes only.</span></em>
 </div>
 
 A sophisticated web application designed to streamline the literature review process for researchers and students. This AI-powered tool helps users analyze academic papers, extract key information, and synthesize notes into comprehensive summaries. By leveraging Google's Gemini AI model, the application provides intelligent assistance throughout the entire literature review workflow, from document analysis to note synthesis.
@@ -61,8 +61,6 @@ litreview-final/
 ├── index.html           # HTML template
 ├── index.tsx            # Application entry point
 ├── metadata.json        # Project metadata
-├── overview.png         # Application screenshot (moved to assets/)
-├── overview2.png        # Application screenshot (moved to assets/)
 └── vite.config.ts       # Vite configuration
 ```
 
